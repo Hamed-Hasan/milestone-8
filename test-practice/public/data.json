@@ -1,0 +1,93 @@
+
+
+
+
+{
+  "hello" : [
+    {
+      "id": "623d70b2f0e7c82c93cc7830",
+      "price": 2736,
+      "img": "https://img.favpng.com/10/24/11/orange-juice-smoothie-fruit-png-favpng-FN5WxAJtSkG701QeXS4K2yJju.jpg",
+      "eyeColor": "brown",
+      "name": "Giles Baird",
+      "gender": "male",
+      "company": "BESTO",
+      "quantity": 0,
+      "stock":20,
+      "about": "Pariatur eiusmod irure et sunt labore sunt cillum. Dolor sit incididunt anim nisi cupidatat mollit fugiat consectetur eu dolore labore. Consequat minim velit velit duis dolore sit enim est tempor commodo irure. Occaecat tempor aliqua do nisi voluptate veniam voluptate nisi laborum consectetur. Occaecat cillum anim tempor aliquip cillum ipsum cupidatat consequat cillum qui.\r\n"
+    },
+    {
+      "id": "623d70b2778ef20ee1fb53b8",
+      "price": 436,
+      "img": "https://esquilo.io/png/thumb/ejpfdE8pmVSy2wf-Blackberry-Fruit-PNG-Transparent-Image.png",
+      "eyeColor": "green",
+      "name": "Rose Foster",
+      "gender": "male",
+      "company": "IRACK",
+      "quantity": 0,
+      "stock":10,
+      "about": "Labore reprehenderit dolore amet fugiat velit ad. Nisi proident pariatur Lorem est est dolore minim commodo aute eiusmod Lorem proident. Eiusmod proident consectetur laborum excepteur sit non esse sunt incididunt laboris et sit esse. Consectetur voluptate magna esse cillum amet. Pariatur occaecat ea nostrud ex exercitation exercitation sunt nisi exercitation aliquip occaecat minim ex deserunt. Est mollit enim laboris aute adipisicing aute dolor incididunt. Fugiat velit dolor deserunt voluptate ut do velit elit qui ut sit dolor tempor.\r\n"
+    },
+    {
+      "id": "623d70b2309298816bdefcaa",
+      "price": 4336,
+      "img": "https://cdn9.pngable.com/16/0/23/gEfZnQvJrJ/mix-fruit.jpg",
+      "eyeColor": "brown",
+      "name": "Cole Williamson",
+      "gender": "male",
+      "company": "EXERTA",
+      "quantity": 0,
+      "stock":15,
+      "about": "Sunt fugiat velit nisi pariatur eiusmod et do consequat sunt. Dolor duis sunt eiusmod minim quis commodo occaecat aliquip duis ullamco. Fugiat voluptate duis ut dolore do fugiat. Ad duis ea quis cillum qui. Consequat velit adipisicing eiusmod eiusmod duis. Ad incididunt esse commodo dolore dolor aute sint aliquip sunt ullamco incididunt.\r\n"
+    },
+    {
+      "id": "623d70b2154af8bd7073b22c",
+      "price": 9583,
+      "img": "https://cdn.imgbin.com/11/5/21/imgbin-organic-food-juice-vegetable-fruit-juice-9pQb6N0iQgwCSs48jtrqsUCFA.jpg",
+      "eyeColor": "blue",
+      "name": "Concetta Bonner",
+      "gender": "female",
+      "company": "NETROPIC",
+      "quantity": 0,
+      "stock":29,
+      "about": "Irure anim laboris anim reprehenderit cupidatat. Exercitation aute do non laborum aute adipisicing Lorem quis ea ullamco. Voluptate occaecat sint proident cupidatat eu ad aliqua irure cillum id amet. Lorem labore anim sit labore qui laboris aliquip fugiat aliquip in commodo proident elit Lorem.\r\n"
+    },
+    {
+      "id": "623d70b2bef588e9ecf09f07",
+      "price": 83732,
+      "img": "https://w7.pngwing.com/pngs/181/2/png-transparent-fruits-element-fresh-fruits-fruit-collection-creative-fruit.png",
+      "eyeColor": "blue",
+      "name": "Clements Roach",
+      "gender": "male",
+      "company": "MIRACLIS",
+      "quantity": 0,
+      "stock":50,
+      "about": "Nostrud ad sint nulla aliqua sunt consequat deserunt incididunt enim. Deserunt ipsum est ex sunt aute proident. Mollit pariatur irure aliqua exercitation ea.\r\n"
+    },
+    {
+      "id": "623d70b2108df81e4507bddd",
+      "price": 293,
+      "img": "https://img.favpng.com/25/0/16/fresh-fruits-and-vegetables-food-dried-fruit-png-favpng-nz7sTWSjRG5nbNm4mqfHCBHSQ.jpg",
+      "eyeColor": "green",
+      "name": "Hanson Zimmerman",
+      "gender": "male",
+      "company": "GEEKULAR",
+      "quantity": 0,
+      "stock":222,
+      "about": "Velit excepteur commodo non amet velit non. Est consequat occaecat duis aliqua. In excepteur non non incididunt aute. Pariatur aliqua elit duis duis cillum eu Lorem. In mollit nostrud est minim Lorem dolore incididunt. Excepteur magna tempor ex eiusmod culpa qui esse officia velit reprehenderit.\r\n"
+    },
+    {
+      "id": "623d70b2c18945a9b527148b",
+      "price": 524,
+      "img": "https://e1.pngegg.com/pngimages/498/547/png-clipart-tropical-orange-fruit.png",
+      "eyeColor": "green",
+      "name": "Kemp Ewing",
+      "gender": "male",
+      "company": "EZENTIA",
+      "quantity": 0,
+      "stock":244,
+      "about": "Laboris et mollit nisi ipsum ea. Ea excepteur excepteur elit magna duis est ea veniam proident occaecat pariatur nisi. Qui tempor ut ea et laborum eiusmod labore dolore nisi nulla sunt non ut. Anim nisi qui est est quis. Velit irure occaecat nisi ut. Aute voluptate officia sint laborum ipsum duis incididunt occaecat.\r\n"
+    }
+ 
+  ]
+}
